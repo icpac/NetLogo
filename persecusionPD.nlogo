@@ -1,6 +1,6 @@
 ;
 ; tlacaelel.icpac@gmail.com
-; javier1604qgmail.com
+; javier1604@gmail.com
 ; Basado en el código de fhca
 ; Presas depredadores.
 ;
